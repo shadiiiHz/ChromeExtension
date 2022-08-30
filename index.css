@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+input{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 1px solid rgb(167, 60, 167);
+    box-sizing: border-box;
+    margin-bottom: 4px;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 1px solid blueviolet;
+    font-weight: bold;
+
+}
+#delete-btn{
+    background-color: white;
+    color: blueviolet;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 1px solid blueviolet;
+    font-weight: bold;
+
+}
+ul{
+    margin-top: 20px;
+    list-style: none; /* remove black circle beside a url */
+    padding-left: 0;
+}
+ul li{
+    margin-top: 5px;
+}
+li a{
+    color: rgb(167, 60, 167);
+}
